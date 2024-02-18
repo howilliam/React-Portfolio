@@ -1,0 +1,12 @@
+/* Add spacing to the navbar brand */
+.navbar-brand {
+    margin-right: 20px; /* Adjust the margin as needed */
+  }
+  
+  /* Add spacing to the navbar links */
+  .navbar-nav .nav-link {
+    margin-right: 10px; /* Adjust the margin as needed */
+  }
+  
+
+  

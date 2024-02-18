@@ -1,7 +1,7 @@
 import React from 'react';
 
-const Contacts = () => {
+const Contact = () => {
   return <div>Welcome to my portfolio! This is the Contacts page.</div>;
 };
 
-export default Contacts;
+export default Contact;
