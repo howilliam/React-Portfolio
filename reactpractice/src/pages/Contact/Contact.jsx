@@ -1,4 +1,6 @@
 import React, { useState } from "react";
+import Footer from "/src/components/Footer";
+import "./style.css";
 
 const Contact = () => {
   // Setting the component's initial state
@@ -92,9 +94,7 @@ const Contact = () => {
           </button>
         </form>
       </div>
-      <footer className="footer">
-        <span>Pupster 2017</span>
-      </footer>
+      <Footer />
     </>
   );
 };
