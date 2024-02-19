@@ -1,7 +1,7 @@
+import React from "react";
 import { NavLink } from "react-router-dom";
-import "./style.css";
 
-const NavigationBar = () => {
+const Header = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
       <div className="container-fluid">
@@ -58,4 +58,5 @@ const NavigationBar = () => {
     </nav>
   );
 };
-export default NavigationBar;
+
+export default Header;
