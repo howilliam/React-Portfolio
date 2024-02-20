@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
       <div className="container-fluid">
-        <a className="navbar-brand" href="/React-Portfolio/">
+        <a className="navbar-brand" href="/React-Portfolio/Home">
           William Ho
         </a>
         <button
@@ -23,7 +23,7 @@ const Header = () => {
           <ul className="navbar-nav mr-auto">
             <li className="nav-item">
               <NavLink
-                to="/React-Portfolio/"
+                to="/React-Portfolio/Home"
                 end
                 className={({ isActive }) =>
                   isActive ? "nav-link active" : "nav-link"
