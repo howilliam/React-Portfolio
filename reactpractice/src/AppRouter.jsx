@@ -13,9 +13,9 @@ const AppRouter = () => {
       <Header />
       <div className="d-flex flex-column w-full justify-content-center align-items-center myStyle">
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/project" element={<Projects />} />
-          <Route path="/contact" element={<Contacts />} />
+          <Route path="/React-Portfolio/" element={<Home />} />
+          <Route path="/React-Portfolio/project" element={<Projects />} />
+          <Route path="/React-Portfolio/contact" element={<Contacts />} />
         </Routes>
       </div>
     </Router>

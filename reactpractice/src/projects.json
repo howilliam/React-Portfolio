@@ -2,42 +2,42 @@
     {
       "id": 1,
       "name": "Refactor Webpage",
-      "image": "/public/project1.png",
+      "image": "/project1.png",
       "github": "https://github.com/howilliam/Refactor-Webpage",
       "link": "https://howilliam.github.io/Refactor-Webpage/"
     },
     {
       "id": 2,
       "name": "Portfolio",
-      "image": "/public/project2.png",
+      "image": "/project2.png",
       "github": "https://github.com/howilliam/Portfolio",
       "link": "https://howilliam.github.io/Portfolio/"
     },
     {
       "id": 3,
       "name": "Bootstrap portfolio",
-      "image": "/public/project3.png",
+      "image": "/project3.png",
       "github": "https://github.com/howilliam/Bootstrap-Portfolio",
       "link": "https://howilliam.github.io/Bootstrap-Portfolio/"
     },
     {
       "id": 4,
       "name": "Password generator",
-      "image": "/public/project4.png",
+      "image": "/project4.png",
       "github": "https://github.com/howilliam/passwordGenerator",
       "link": "https://howilliam.github.io/passwordGenerator/"
     },
     {
       "id": 5,
       "name": "Code Quiz",
-      "image": "/public/project5.png",
+      "image": "/project5.png",
       "github": "https://github.com/howilliam/CodeQuiz",
       "link": "https://howilliam.github.io/CodeQuiz/"
     },
     {
       "id": 6,
       "name": "Book Search",
-      "image": "/public/project6.png",
+      "image": "/project6.png",
       "github": "https://github.com/howilliam/book-search",
       "link": "https://howilliam.github.io/book-search/"
     }
