@@ -37,14 +37,15 @@
   
 /* Jumnotron styling */
 .ImperialBackground {
-    background-image: url("../images/251369.jpg");
+    background-image: url("/src/assets/251369.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     height: 500px;
-    height: calc(100vh - 25px);
+    height: calc(100vh - 100px);
     display: flex;
     align-items: center;
     justify-content: center;
+    width: 100%;
   }
 
   .jumboCopy {
