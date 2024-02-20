@@ -5,7 +5,7 @@ const NavigationBar = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
       <div className="container-fluid">
-        <a className="navbar-brand" href="/Home">
+        <a className="navbar-brand" href="/">
           William Ho
         </a>
         <button
@@ -23,7 +23,7 @@ const NavigationBar = () => {
           <ul className="navbar-nav mr-auto">
             <li className="nav-item">
               <NavLink
-                to="/Home"
+                to="/"
                 end
                 className={({ isActive }) =>
                   isActive ? "nav-link active" : "nav-link"
