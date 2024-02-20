@@ -20,7 +20,7 @@ This is a portfolio using react.
 2. **Navigate to the project directory:**
 
    ```bash
-   cd team-profile-generator
+   cd *your directory*
 
 3. **Install the required dependencies:**
 
