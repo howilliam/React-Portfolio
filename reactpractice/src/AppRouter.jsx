@@ -13,7 +13,7 @@ const AppRouter = () => {
       <Header />
       <div className="d-flex flex-column w-full justify-content-center align-items-center myStyle">
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/Home" element={<Home />} />
           <Route path="/project" element={<Projects />} />
           <Route path="/contact" element={<Contacts />} />
         </Routes>
