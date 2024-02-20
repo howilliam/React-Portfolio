@@ -2,9 +2,9 @@ import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Header from './components/Header';
 // import NavigationBar from './components/NavBar';
-import Home from './pages/Home/Home';
-import Projects from './pages/Projects';
-import Contacts from './pages/Contact/Contact';
+import Home from './pages/Home';
+import Projects from './pages/Project';
+import Contacts from './pages/Contact';
 
 const AppRouter = () => {
   return (
