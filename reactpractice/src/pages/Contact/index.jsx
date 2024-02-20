@@ -93,6 +93,11 @@ const Contact = () => {
             Submit
           </button>
         </form>
+        <div className="center-container p-3">
+          <a href="/src/assets/CV 2024.pdf" className="btn btn-primary">
+            My CV
+          </a>
+        </div>
       </div>
       <Footer />
     </>

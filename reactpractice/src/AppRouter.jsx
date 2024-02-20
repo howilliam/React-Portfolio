@@ -5,12 +5,13 @@ import Header from './components/Header';
 import Home from './pages/Home';
 import Projects from './pages/Project';
 import Contacts from './pages/Contact';
+import './index.css'
 
 const AppRouter = () => {
   return (
     <Router>
       <Header />
-      <div className="d-flex flex-column w-full justify-content-center align-items-center">
+      <div className="d-flex flex-column w-full justify-content-center align-items-center myStyle">
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/project" element={<Projects />} />
