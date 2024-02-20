@@ -19,8 +19,8 @@ const Projects = () => {
           id={project.id}
           name={project.name}
           image={project.image}
-          occupation={project.occupation}
-          location={project.location}
+          github={project.github}
+          link={project.link}
         />
       ))}
     </Wrapper>
